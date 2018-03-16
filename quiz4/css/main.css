@@ -1,0 +1,70 @@
+body{
+	background-color: grey;
+
+}
+
+.container{
+	/*background-color: pink;*/
+	width: 600px;
+	margin: 0 auto;
+	padding: 20px;
+	min-height: 50px;
+	float: left;
+
+
+}
+.container.panel {
+	background-color: blue;
+	text-align: center;
+}
+
+.container.panel.one{
+	background-color: maroon;
+
+
+}
+
+.container.panel.two{
+	background-color: green;
+}
+
+.container.panel.three{
+	background-color: orange;
+}
+
+.container.panel.four{
+	background-color: purple;
+}
+
+.container.panel.five{
+	background-color: yellow;
+}
+
+.container.panel.six{
+	background-color: red;
+}
+
+.top.one{
+width: 200px;
+}
+
+.top.two{
+width: 200px;
+}
+
+.top.three{
+width: 200px;
+}
+.middle.four{
+	width: 600px;
+	
+}
+	
+.bottom.five{
+	width: 300px;
+}
+
+.bottom.six{
+	width: 300px;
+}
+

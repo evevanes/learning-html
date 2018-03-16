@@ -1,0 +1,41 @@
+body{
+	background-color: rgba(0,0,0);
+
+}
+.container{
+	background-color:  #ffffff;
+	width: 600px;
+	margin: 50px auto;
+	
+
+}
+.container table{
+	border-collapse: collapse;
+	width: 100%;
+	border: 1px solid;
+	height: 400px;
+}
+
+.container table tr{
+	border-bottom: 1px solid;
+}
+
+.container table tr:last-child{
+	border-bottom: none;
+}
+
+.container table tr th{
+	text-align: left;
+	background-color: rgba(0,0,0,0.6);
+	color: white;
+}
+
+.container table tr:nth-child(odd){
+	background-color: rgba(0,0,0,0.2);
+}
+
+.container table tr td{
+	border-right: 1px solid;
+	padding: 10px;
+
+}

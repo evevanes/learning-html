@@ -1,0 +1,39 @@
+body{
+	background-color: grey;
+	background-image: url(../img/iguana.png), url(../img/forest.jpg); 
+	background-attachment: fixed;
+	background-size: 50%, cover;
+	background-position: center bottom;
+	background-repeat: no-repeat;
+}
+
+
+.content{
+	width: 1000px;
+	min-height: 500px;
+	padding: 30px;
+	margin: 30px auto;
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+	font-size: 17px;
+	 
+	
+}
+h1{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*background-repeat: no-repeat;
+background-position: center top, center;
+80%,
+url(../img/bg.jpg); 

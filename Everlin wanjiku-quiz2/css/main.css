@@ -1,0 +1,32 @@
+body{
+	background-color: silver;
+	width: 100%;
+	height: 100%;
+}
+h1{
+	color:red;
+	
+}
+h2{
+	color: green;
+
+}
+.content{
+	background-color: white;
+	width: 1000px;
+	margin: auto;
+	padding: 20px;
+
+}
+
+
+footer{
+	background-color: grey;
+	text-align: center;
+	margin: auto;
+	padding: 20px;
+	width: 1000px;
+	font-size: 20px;
+	color: white;
+}
+
